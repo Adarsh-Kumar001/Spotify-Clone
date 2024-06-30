@@ -42,9 +42,9 @@ or
 
 **Contact**
 
-Email: ak0118@srmist.edu.in
-GitHub: Adarsh-Kumar001
-LinkedIn : [LinkedIn link](https://www.linkedin.com/in/adarsh-kumar102004/)
++ Email: ak0118@srmist.edu.in
++ GitHub: Adarsh-Kumar001
++ LinkedIn : [LinkedIn link](https://www.linkedin.com/in/adarsh-kumar102004/)
   
 
 

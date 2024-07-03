@@ -7,7 +7,7 @@ Welcome to the Spotify Clone project! This is a simple web-based music player ap
 
 Visit
 
-[Vercel Deployement Link](https://spotify-clone-jdomuone7-adarsh-kumar001s-projects.vercel.app/)
+[Vercel Deployement Link](https://spotify-clone-jade-mu.vercel.app/).
 
 or
 
